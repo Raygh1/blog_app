@@ -1,3 +1,1 @@
-# blog_app
-
-A new Flutter project.
+Proyecto base para app
